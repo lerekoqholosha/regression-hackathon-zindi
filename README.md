@@ -5,3 +5,4 @@ Sendy is a logistic company in Kenya.
 - Regression models will be trained, and the most suitable will be selected. 
 - This model will then be used to predict delivery time for the test dataset.
 -  author =`Lereko Qholosha`, email = lerekoqholosha9@gmail.com
+`LinkedIn:Lereko Qholosha"`
